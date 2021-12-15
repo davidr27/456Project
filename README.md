@@ -11,8 +11,5 @@ train_ds with 80% of data
 val_ds with 20% of data 
 
 train_ds and val_ds can be used for your models. Design your models. Use AlexNet as an example 
-Please read powerpoint slides for more information.
-
-
-
-
+Please read powerpoint slides for more information and modify the padding values to obtain the desired output, which
+was shown in the slides and report.
